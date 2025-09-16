@@ -18,9 +18,23 @@ orcid: 0000-0001-8280-7040
 
 short_bio_text_justify: true
 short_bio: >-
-  <p>
-    My research focuses on supporting decision-making under conflicting objectives through interactive multiobjective evolutionary algorithms. I develop methods and user interfaces that guide decision makers toward preferred compromises efficiently, without increasing cognitive load. My work combines optimization, visualization, and human-centered design.
-  </p>
+  <div class="bio-content">
+    <p class="mb-4" style="font-size: 1.1rem; line-height: 1.6;">
+      My research focuses on supporting decision-making under conflicting objectives through interactive multiobjective evolutionary algorithms. I develop methods and user interfaces that guide decision makers toward preferred compromises efficiently, without increasing cognitive load. My work combines optimization, visualization, and human-centered design.
+    </p>
+    
+    <div class="research-interests mt-4">
+      <h6 class="text-uppercase mb-3" style="letter-spacing: 0.5px; color: #666;">Research Interests</h6>
+      <div>
+        <span class="badge badge-pill badge-light border mr-2 mb-2 py-2 px-3" style="font-weight: 400;">Interactive Optimization</span>
+        <span class="badge badge-pill badge-light border mr-2 mb-2 py-2 px-3" style="font-weight: 400;">Evolutionary Algorithms</span>
+        <span class="badge badge-pill badge-light border mr-2 mb-2 py-2 px-3" style="font-weight: 400;">Multi-objective Optimization</span>
+        <span class="badge badge-pill badge-light border mr-2 mb-2 py-2 px-3" style="font-weight: 400;">Decision Support Systems</span>
+        <span class="badge badge-pill badge-light border mr-2 mb-2 py-2 px-3" style="font-weight: 400;">Human-Computer Interaction</span>
+        <span class="badge badge-pill badge-light border mr-2 mb-2 py-2 px-3" style="font-weight: 400;">Data Visualization</span>
+      </div>
+    </div>
+  </div>
 
 portrait_url: /assets/images/photos/portrait.jpg
 #portrait_caption: >-
